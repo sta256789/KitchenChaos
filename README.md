@@ -22,5 +22,5 @@ During a round, the players are presented with an order which must be completed 
 [Demo video from Youtube](https://youtu.be/gZNQ8c4Se9I "Demo")
 
 ## Reference
-[Code Monkey's Youtube](https://www.youtube.com/watch?v=AmGSEH7QcDg&list=FLtCx2tX3muWiYwPya4bVxjg "Tutorial")  
+[Code Monkey's Youtube](https://youtu.be/vXBJ4H0pcfk "Tutorial")  
 [Overcooked's Wiki](https://en.wikipedia.org/wiki/Overcooked "Overcooked")
