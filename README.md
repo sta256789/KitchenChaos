@@ -4,7 +4,7 @@ KitchenChaos
 ## Introduction
 
 This is a Unity game practices based on Code Monkey's Unity tutorial.  
-It's a Overcooked like game.  
+It's an Overcooked like game.  
 
 ## Control
 - [Keyboard] WSAD / [Keyboard] arrow key / [Gamepad] left stick to move.
@@ -19,13 +19,13 @@ During a round, the players are presented with an order which must be completed 
 
 ## Screenshots  
 ![OptionMenu](https://github.com/sta256789/KitchenChaos/blob/main/IMG_1490.jpeg?raw=true)  
-Feel free to adjust them!
+<p style="text-align: center;">Feel free to adjust them!</p>
 
 ![StoveWarning](https://github.com/sta256789/KitchenChaos/blob/main/IMG_1491.jpeg?raw=true)  
-Be careful! If you cook the meat patty over 5 seconds...
+<p style="text-align: center;">Be careful! If you cook the meat patty over 5 seconds...</p>
 
 ![DeliverySuccess](https://github.com/sta256789/KitchenChaos/blob/main/IMG_1493.jpeg?raw=true)  
-Follow the recipes to win!
+<p style="text-align: center;">Follow the recipes to win!</p>
 
 ## Demo
 [Demo video from Youtube](https://youtu.be/gZNQ8c4Se9I "Demo")
