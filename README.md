@@ -19,13 +19,13 @@ During a round, the players are presented with an order which must be completed 
 
 ## Screenshots  
 ![OptionMenu](https://github.com/sta256789/KitchenChaos/blob/main/IMG_1490.jpeg?raw=true)  
-<p style="text-align: center;">Feel free to adjust them!</p>
+Feel free to adjust them!
 
 ![StoveWarning](https://github.com/sta256789/KitchenChaos/blob/main/IMG_1491.jpeg?raw=true)  
-<p style="text-align: center;">Be careful! If you cook the meat patty over 5 seconds...</p>
+Be careful! If you cook the meat patty over 5 seconds...
 
 ![DeliverySuccess](https://github.com/sta256789/KitchenChaos/blob/main/IMG_1493.jpeg?raw=true)  
-<p style="text-align: center;">Follow the recipes to win!</p>
+Follow the recipes to win!
 
 ## Demo
 [Demo video from Youtube](https://youtu.be/gZNQ8c4Se9I "Demo")
