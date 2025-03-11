@@ -18,12 +18,14 @@ cooking, serving, and cleaning up all while under a time limit to complete as ma
 During a round, the players are presented with an order which must be completed within a short time window.  
 
 ## Screenshots  
-![Feel free to adjust them!](https://github.com/sta256789/KitchenChaos/blob/main/IMG_1490.jpeg?raw=true)  
+![OptionMenu](https://github.com/sta256789/KitchenChaos/blob/main/IMG_1490.jpeg?raw=true)  
+Feel free to adjust them!
 
-![Be careful! If you cook the meat patty over 5 seconds...](https://github.com/sta256789/KitchenChaos/blob/main/IMG_1491.jpeg?raw=true)  
+![StoveWarning](https://github.com/sta256789/KitchenChaos/blob/main/IMG_1491.jpeg?raw=true)  
+Be careful! If you cook the meat patty over 5 seconds...
 
-![Follow the recipes to win!](https://github.com/sta256789/KitchenChaos/blob/main/IMG_1493.jpeg?raw=true)
-
+![DeliverySuccess](https://github.com/sta256789/KitchenChaos/blob/main/IMG_1493.jpeg?raw=true)  
+Follow the recipes to win!
 
 ## Demo
 [Demo video from Youtube](https://youtu.be/gZNQ8c4Se9I "Demo")
