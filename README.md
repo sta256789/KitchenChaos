@@ -4,18 +4,25 @@ KitchenChaos
 ## Introduction
 
 This is a Unity game practices based on Code Monkey's Unity tutorial.  
-It's a Overcooked like game.
+It's a Overcooked like game.  
+
+## Control
+- [Keyboard] WSAD / [Keyboard] arrow key / [Gamepad] left stick to move.
+- [Keyboard] E / [Gamepad] south button to take the ingredient.
+- [Keyboard] F / [Gamepad] west button to cut the ingredient.
+- [Keyboard] Esc / [Gamepad] start button to pause the game.
 
 ## Gameplay
 Players in KitchenChaos take on the role of chefs in a kitchen, preparing meals via preparation of ingredients, 
 cooking, serving, and cleaning up all while under a time limit to complete as many dishes as possible. 
-During a round, the players are presented with an order which must be completed within a short time window.
+During a round, the players are presented with an order which must be completed within a short time window.  
 
-## Control
-- [Keyboard] WSAD / [Keyboard] arrow key / [Gamepad] left stick to move.  
-- [Keyboard] E / [Gamepad] south button to take the ingredient.  
-- [Keyboard] F / [Gamepad] west button to cut the ingredient.  
-- [Keyboard] Esc / [Gamepad] start button to pause the game.
+## Screenshots  
+![Feel free to adjust them!](https://github.com/sta256789/KitchenChaos/blob/main/IMG_1490.jpeg?raw=true)  
+
+![Be careful! If you cook the meat patty over 5 seconds...](https://github.com/sta256789/KitchenChaos/blob/main/IMG_1491.jpeg?raw=true)  
+
+![Follow the recipes to win!](https://github.com/sta256789/KitchenChaos/blob/main/IMG_1493.jpeg?raw=true)
 
 
 ## Demo
