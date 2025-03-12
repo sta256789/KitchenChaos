@@ -19,7 +19,7 @@ During a round, the players are presented with an order which must be completed 
 
 ## Screenshots  
 ![OptionMenu](https://github.com/sta256789/KitchenChaos/blob/main/IMG_1490.jpeg?raw=true)  
-Feel free to adjust them!
+Feel free to customize them!
 
 ![StoveWarning](https://github.com/sta256789/KitchenChaos/blob/main/IMG_1491.jpeg?raw=true)  
 Be careful! If you cook the meat patty over 5 seconds...
